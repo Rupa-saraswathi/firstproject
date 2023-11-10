@@ -12,3 +12,5 @@ def floor(a,b):
     return(a//b)
 def moddiv(a,b):
     return(a%b)
+def expo(a,b):
+    rerturn(a**b)
